@@ -223,8 +223,4 @@ grid.arrange(fig1, fig2, fig3, ncol=3)
 ```
 
 ## Conclusion
-From, both the WordCloud analysis and Word count plots we can see that Bihar election results have not had any effect on the
-nature of speeches made in 'Maan ki Baat'.  
-Indeed, throughout the 3 year period, election results have not had any impact.
-Thus, we can say that the 'Maan Ki Baat' programme is independent of politics and will continue to highlight social issues 
-and engage citizen participation with the aim of inducing positive changes in citizen behaviour. 
+From, both the WordCloud analysis and Word count plots we can see that politics did not have any kind of impact on the content and nature of 'Maan ki Baat'. The most common words are similar with minor variations in all the years. The most common words like 'will', 'country', 'can', 'govern', 'people' indicate that there is an active attempt to foster social and national integration by reinforcing a sense of duty and common national vision. Thus, we can say that the 'Maan Ki Baat' programme is more geared towards engaging citizen participation with the aim of inducing positive changes in citizen behaviour towards a common vision of nationhood.
